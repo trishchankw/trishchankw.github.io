@@ -115,7 +115,7 @@ a:focus {
     padding: 35px 20px 10px 10px;
     font-weight: 600;
     display: inline-block;
-    font-size: 4em;
+    font-size: 3em;
     /* border-bottom: 1px solid #999; */
 }
 
@@ -546,7 +546,7 @@ ul.media_sec li img {
 
 @media (max-width:640px) {
     .header-right {
-        width: 43%;
+        width: 23%;
     }
     .header h1 {
         padding: 51px 18px 11px 18px;
@@ -621,7 +621,7 @@ ul.media_sec li img {
 
 @media (max-width:568px) {
     .header-right {
-        width: 50%;
+        width: 20%;
     }
     .header-right h2 {
         font-size: 1.6em;
@@ -642,7 +642,7 @@ ul.media_sec li img {
 
 @media (max-width: 480px) {
     .header {
-        width: 60%;
+        width: 75%;
     }
     .header h1 {
         padding: 43px 18px 11px 18px;
