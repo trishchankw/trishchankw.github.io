@@ -724,7 +724,7 @@ ul.media_sec li img {
 @media (max-width: 320px) {
     .header h1 {
         padding: 34px 12px 11px 11px;
-        font-size: 1.3em;
+        font-size: 1.2em;
         /* border-bottom: 3px solid #000; */
     }
     .list ul {
