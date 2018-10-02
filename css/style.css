@@ -732,10 +732,10 @@ ul.media_sec li img {
         padding: 0px 0em 4px 0em;
     }
     .header-right {
-        width: 53%;
+        width: 20%;
     }
     .content h3 {
-        font-size: 1.1em;
+        font-size: 1em;
     }
     .content {
         margin: 1.5em 0;
@@ -747,7 +747,7 @@ ul.media_sec li img {
         padding: 2.5px 0;
     }
     .header-right h2 {
-        font-size: 1.1em;
+        font-size: 1em;
         margin: 12px 0px 0 0px;
     }
     .list ul li {
