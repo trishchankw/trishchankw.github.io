@@ -724,7 +724,7 @@ ul.media_sec li img {
 
 @media (max-width: 320px) {
     .header h1 {
-        padding: 34px 12px 11px 11px;
+        padding: 20px 12px 11px 11px;
         font-size: 1.2em;
         /* border-bottom: 3px solid #000; */
     }
@@ -732,7 +732,7 @@ ul.media_sec li img {
         padding: 0px 0em 4px 0em;
     }
     .header-right {
-        width: 20%;
+        width: 15%;
     }
     .content h3 {
         font-size: 1em;
